@@ -1,6 +1,7 @@
-# uEye-XS-Image-processing
 iDS uEye XS Vision Tester
 A Python-based GUI tool for vision testing using IDS uEye XS cameras.
+
+<img width="3870" height="1512" alt="Picture1" src="https://github.com/user-attachments/assets/fa29d956-6ff9-45d6-942c-dcf67efb301b" />
 
 **This application allows you to:**
 - Select an ROI (Region of Interest) in a live camera feed
